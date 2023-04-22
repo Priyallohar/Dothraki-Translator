@@ -28,7 +28,7 @@ h1{
     justify-content: center;
     align-items: center;
     flex-direction: row;
-    margin: 1em;
+    margin: 0.5em;
     min-height: 62vh;
 }
 
@@ -36,7 +36,7 @@ h1{
     display: block;
     margin: 15px auto ;
     width: 400px;
-    height: 60px;
+    height: 80px;
     resize: none;
     cursor: pointer;
     text-align: center;
@@ -74,7 +74,7 @@ textarea:focus {
 #outputtext{
     margin: 20px auto;
     width: 400px;
-    height: 60px;
+    height: 80px;
     border: 1px solid black;
     text-align: center;
     padding-top: 2.5em;
