@@ -8,7 +8,10 @@ In this app i have used [Fun Translate Api](https://funtranslations.com/). ***Th
 ![](https://github.com/Priyallohar/Dothraki-Translator/blob/main/Image.PNG)
 
 ---
-### Tech Used ###
-1. HTML
+### Tech Used: ###
+
+1.HTML
+
 2.CSS
+
 3.Java Script
