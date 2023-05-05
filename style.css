@@ -82,7 +82,6 @@ textarea:focus {
     padding-top: 2.5em;
     color: var(--font-color);
     font-size: large;
-    background-color: white;
     background-color: #AEAEAE;
 }
 
